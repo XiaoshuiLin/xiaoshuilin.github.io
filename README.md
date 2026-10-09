@@ -1,6 +1,11 @@
 # Xiaoshui Lin — Academic Website
 
-A complete English-language academic website, ready for GitHub Pages.
+Personal academic website of Xiaoshui Lin.
+
+- [Visit the website](https://xiaoshuilin.github.io/)
+- [Source repository](https://github.com/XiaoshuiLin/xiaoshuilin.github.io)
+
+Published with GitHub Pages from the `main` branch and repository root. Commits to `main` automatically update the website.
 
 ## Preview
 
@@ -49,4 +54,4 @@ Replace `assets/portrait.png` to update the photograph. Shared profile and navig
 - The layout takes inspiration from the supplied academic homepage example; this is an original HTML/CSS implementation. No third-party template code or photographs were copied.
 - No analytics, cookies, external fonts, or JavaScript are required.
 
-The website files are prepared for publishing. They do not establish a public GitHub Pages deployment until uploaded to a repository and enabled in Pages settings.
+The live website is available at [xiaoshuilin.github.io](https://xiaoshuilin.github.io/). The setup instructions above are retained for reference when creating another copy.
